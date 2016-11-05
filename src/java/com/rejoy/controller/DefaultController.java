@@ -11,6 +11,7 @@ package com.rejoy.controller;
  */
 public class DefaultController {
     public String index(){
-        return "Hello World";
+        //return "Hello World";
+        return "HI this is a test";
     }
 }
